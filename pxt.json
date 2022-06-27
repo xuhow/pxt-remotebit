@@ -1,16 +1,14 @@
 {
     "name": "pxt-remotebit",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "raw-bluetooth": "github:xuhow/pxt-raw-bluetooth"
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "remotebit.ts"
     ],
     "testFiles": [
         "test.ts"

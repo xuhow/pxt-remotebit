@@ -1,0 +1,10 @@
+{
+  "ComponentID": "Component ID.",
+  "ReceivedComponent": "Received component enum.",
+  "SendComponent": "Send component enum.",
+  "remotebit": "Supports for remote:bit service.",
+  "remotebit.isConnected": "Returns true if the remote:bit is connected.",
+  "remotebit.onReceived": "On remote:bit received values from a component.",
+  "remotebit.send": "Sends value(s) to component of remote:bit.",
+  "remotebit.start": "Starts remote:bit."
+}

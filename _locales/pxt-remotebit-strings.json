@@ -1,0 +1,12 @@
+{
+  "ReceivedComponent.Button|block": "Button",
+  "ReceivedComponent.Joystick|block": "Joystick",
+  "SendComponent.Distance|block": "Distance",
+  "SendComponent.Speed|block": "Speed",
+  "remotebit.isConnected|block": "remote:bit is connected",
+  "remotebit.onReceived|block": "on remote:bit received|from component %component id %id with format %format",
+  "remotebit.send|block": "remote:bit send values|to component %component id %id with %values of format %format",
+  "remotebit.start|block": "remote:bit start",
+  "remotebit|block": "remotebit",
+  "{id:category}Remotebit": "Remotebit"
+}
